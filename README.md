@@ -25,19 +25,5 @@ If you are satisfied with the result, you can finally build the project for rele
 npm run build
 ```
 
-## Storybook
 
-After installing, you can view your storybook by running:
-
-```
-npm run storybook
-```
-
-After a few seconds, your storybook should be accessible at the address
-[http://localhost:6006/](http://localhost:6006/)
-
-You can build your storybook for release with:
-
-```
-npm run build-storybook
 ```
